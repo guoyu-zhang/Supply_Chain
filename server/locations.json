@@ -1,0 +1,722 @@
+[
+  {
+    "City": "Aberdeen, Scotland",
+    "Latitude": 57.15,
+    "Longitude": -2.15,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Adelaide, Australia",
+    "Latitude": -34.9167,
+    "Longitude": 138.6,
+    "Time": "2:30 a.m."
+  },
+  {
+    "City": "Algiers, Algeria",
+    "Latitude": 36.8333,
+    "Longitude": 3.0,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Amsterdam, Netherlands",
+    "Latitude": 52.3667,
+    "Longitude": 4.8833,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Ankara, Turkey",
+    "Latitude": 39.9167,
+    "Longitude": 32.9167,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Asunción, Paraguay",
+    "Latitude": -25.25,
+    "Longitude": -57.6667,
+    "Time": "1:00 p.m."
+  },
+  {
+    "City": "Athens, Greece",
+    "Latitude": 37.9667,
+    "Longitude": 23.7167,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Auckland, New Zealand",
+    "Latitude": -36.8667,
+    "Longitude": 174.75,
+    "Time": "5:00 a.m."
+  },
+  {
+    "City": "Bangkok, Thailand",
+    "Latitude": 13.75,
+    "Longitude": 100.5,
+    "Time": "midnight"
+  },
+  {
+    "City": "Barcelona, Spain",
+    "Latitude": 41.3833,
+    "Longitude": 2.15,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Beijing, China",
+    "Latitude": 39.9167,
+    "Longitude": 116.4167,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Belém, Brazil",
+    "Latitude": -1.4667,
+    "Longitude": -48.4833,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Belfast, Northern Ireland",
+    "Latitude": 54.6167,
+    "Longitude": -5.9333,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Belgrade, Serbia",
+    "Latitude": 44.8667,
+    "Longitude": 20.5333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Berlin, Germany",
+    "Latitude": 52.5,
+    "Longitude": 13.4167,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Birmingham, England",
+    "Latitude": 52.4167,
+    "Longitude": -1.9167,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Bogotá, Colombia",
+    "Latitude": 4.5333,
+    "Longitude": -74.25,
+    "Time": "12:00 noon"
+  },
+  {
+    "City": "Bombay, India",
+    "Latitude": 19.0,
+    "Longitude": 72.8,
+    "Time": "10:30 p.m."
+  },
+  {
+    "City": "Bordeaux, France",
+    "Latitude": 44.8333,
+    "Longitude": -0.5167,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Bremen, Germany",
+    "Latitude": 53.0833,
+    "Longitude": 8.8167,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Brisbane, Australia",
+    "Latitude": -27.4833,
+    "Longitude": 153.1333,
+    "Time": "3:00 a.m."
+  },
+  {
+    "City": "Bristol, England",
+    "Latitude": 51.4667,
+    "Longitude": -2.5833,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Brussels, Belgium",
+    "Latitude": 50.8667,
+    "Longitude": 4.3667,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Bucharest, Romania",
+    "Latitude": 44.4167,
+    "Longitude": 26.1167,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Budapest, Hungary",
+    "Latitude": 47.5,
+    "Longitude": 19.0833,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Buenos Aires, Argentina",
+    "Latitude": -34.5833,
+    "Longitude": -58.3667,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Cairo, Egypt",
+    "Latitude": 30.0333,
+    "Longitude": 31.35,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Calcutta, India",
+    "Latitude": 22.5667,
+    "Longitude": 88.4,
+    "Time": "10:30 p.m."
+  },
+  {
+    "City": "Canton, China",
+    "Latitude": 23.1167,
+    "Longitude": 113.25,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Cape Town, South Africa",
+    "Latitude": -33.9167,
+    "Longitude": 18.3667,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Caracas, Venezuela",
+    "Latitude": 10.4667,
+    "Longitude": -67.0333,
+    "Time": "1:00 p.m."
+  },
+  {
+    "City": "Cayenne, French Guiana",
+    "Latitude": 4.8167,
+    "Longitude": -52.3,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Chihuahua, Mexico",
+    "Latitude": 28.6167,
+    "Longitude": -106.0833,
+    "Time": "10:00 a.m."
+  },
+  {
+    "City": "Chongqing, China",
+    "Latitude": 29.7667,
+    "Longitude": 106.5667,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Copenhagen, Denmark",
+    "Latitude": 55.6667,
+    "Longitude": 12.5667,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Córdoba, Argentina",
+    "Latitude": -31.4667,
+    "Longitude": -64.1667,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Dakar, Senegal",
+    "Latitude": 14.6667,
+    "Longitude": -17.4667,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Darwin, Australia",
+    "Latitude": -12.4667,
+    "Longitude": 130.85,
+    "Time": "2:30 a.m."
+  },
+  {
+    "City": "Djibouti, Djibouti",
+    "Latitude": 11.5,
+    "Longitude": 43.05,
+    "Time": "8:00 p.m."
+  },
+  {
+    "City": "Dublin, Ireland",
+    "Latitude": 53.3333,
+    "Longitude": -6.25,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Durban, South Africa",
+    "Latitude": -29.8833,
+    "Longitude": 30.8833,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Edinburgh, Scotland",
+    "Latitude": 55.9167,
+    "Longitude": -3.1667,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Frankfurt, Germany",
+    "Latitude": 50.1167,
+    "Longitude": 8.6833,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Georgetown, Guyana",
+    "Latitude": 6.75,
+    "Longitude": -58.25,
+    "Time": "1:00 p.m."
+  },
+  {
+    "City": "Glasgow, Scotland",
+    "Latitude": 55.8333,
+    "Longitude": -4.25,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Guatemala City, Guatemala",
+    "Latitude": 14.6167,
+    "Longitude": -90.5167,
+    "Time": "11:00 a.m."
+  },
+  {
+    "City": "Guayaquil, Ecuador",
+    "Latitude": -2.1667,
+    "Longitude": -79.9333,
+    "Time": "12:00 noon"
+  },
+  {
+    "City": "Hamburg, Germany",
+    "Latitude": 53.55,
+    "Longitude": 10.0333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Hammerfest, Norway",
+    "Latitude": 70.6333,
+    "Longitude": 23.6333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Havana, Cuba",
+    "Latitude": 23.1333,
+    "Longitude": -82.3833,
+    "Time": "12:00 noon"
+  },
+  {
+    "City": "Helsinki, Finland",
+    "Latitude": 60.1667,
+    "Longitude": 25.0,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Hobart, Tasmania",
+    "Latitude": -42.8667,
+    "Longitude": 147.3167,
+    "Time": "3:00 p.m."
+  },
+  {
+    "City": "Hong Kong, China",
+    "Latitude": 22.3333,
+    "Longitude": 114.1833,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Iquique, Chile",
+    "Latitude": -20.1667,
+    "Longitude": -70.1167,
+    "Time": "1:00 p.m."
+  },
+  {
+    "City": "Irkutsk, Russia",
+    "Latitude": 52.5,
+    "Longitude": 104.3333,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Jakarta, Indonesia",
+    "Latitude": -6.2667,
+    "Longitude": 106.8,
+    "Time": "midnight"
+  },
+  {
+    "City": "Johannesburg, South Africa",
+    "Latitude": -26.2,
+    "Longitude": 28.0667,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Kingston, Jamaica",
+    "Latitude": 17.9833,
+    "Longitude": -76.8167,
+    "Time": "12:00 noon"
+  },
+  {
+    "City": "Kinshasa, Congo",
+    "Latitude": -4.3,
+    "Longitude": 15.2833,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Kuala Lumpur, Malaysia",
+    "Latitude": 3.1333,
+    "Longitude": 101.7,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "La Paz, Bolivia",
+    "Latitude": -16.45,
+    "Longitude": -68.3667,
+    "Time": "1:00 p.m."
+  },
+  {
+    "City": "Leeds, England",
+    "Latitude": 53.75,
+    "Longitude": -1.5,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Lima, Peru",
+    "Latitude": -12.0,
+    "Longitude": -77.0333,
+    "Time": "12:00 noon"
+  },
+  {
+    "City": "Lisbon, Portugal",
+    "Latitude": 38.7333,
+    "Longitude": -9.15,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Liverpool, England",
+    "Latitude": 53.4167,
+    "Longitude": -3.0,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "London, England",
+    "Latitude": 51.5333,
+    "Longitude": -0.0833,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Lyons, France",
+    "Latitude": 45.75,
+    "Longitude": 4.8333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Madrid, Spain",
+    "Latitude": 40.4333,
+    "Longitude": -3.7,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Manchester, England",
+    "Latitude": 53.5,
+    "Longitude": -2.25,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Manila, Philippines",
+    "Latitude": 14.5833,
+    "Longitude": 120.95,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Marseilles, France",
+    "Latitude": 43.3333,
+    "Longitude": 5.3333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Mazatlán, Mexico",
+    "Latitude": 23.2,
+    "Longitude": -106.4167,
+    "Time": "10:00 a.m."
+  },
+  {
+    "City": "Mecca, Saudi Arabia",
+    "Latitude": 21.4833,
+    "Longitude": 39.75,
+    "Time": "8:00 p.m."
+  },
+  {
+    "City": "Melbourne, Australia",
+    "Latitude": -37.7833,
+    "Longitude": 144.9667,
+    "Time": "3:00 a.m."
+  },
+  {
+    "City": "Mexico City, Mexico",
+    "Latitude": 19.4333,
+    "Longitude": -99.1167,
+    "Time": "11:00 a.m."
+  },
+  {
+    "City": "Milan, Italy",
+    "Latitude": 45.45,
+    "Longitude": 9.1667,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Montevideo, Uruguay",
+    "Latitude": -34.8833,
+    "Longitude": -56.1667,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Moscow, Russia",
+    "Latitude": 55.75,
+    "Longitude": 37.6,
+    "Time": "8:00 p.m."
+  },
+  {
+    "City": "Munich, Germany",
+    "Latitude": 48.1333,
+    "Longitude": 11.5833,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Nagasaki, Japan",
+    "Latitude": 32.8,
+    "Longitude": 129.95,
+    "Time": "2:00 a.m."
+  },
+  {
+    "City": "Nagoya, Japan",
+    "Latitude": 35.1167,
+    "Longitude": 136.9333,
+    "Time": "2:00 a.m."
+  },
+  {
+    "City": "Nairobi, Kenya",
+    "Latitude": -1.4167,
+    "Longitude": 36.9167,
+    "Time": "8:00 p.m."
+  },
+  {
+    "City": "Nanjing (Nanking), China",
+    "Latitude": 32.05,
+    "Longitude": 118.8833,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Naples, Italy",
+    "Latitude": 40.8333,
+    "Longitude": 14.25,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "New Delhi, India",
+    "Latitude": 28.5833,
+    "Longitude": 77.2,
+    "Time": "10:30 p.m."
+  },
+  {
+    "City": "Newcastle-on-Tyne, England",
+    "Latitude": 54.9667,
+    "Longitude": -1.6167,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Odessa, Ukraine",
+    "Latitude": 46.45,
+    "Longitude": 30.8,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Osaka, Japan",
+    "Latitude": 34.5333,
+    "Longitude": 135.5,
+    "Time": "2:00 a.m."
+  },
+  {
+    "City": "Oslo, Norway",
+    "Latitude": 59.95,
+    "Longitude": 10.7,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Panama City, Panama",
+    "Latitude": 8.9667,
+    "Longitude": -79.5333,
+    "Time": "12:00 noon"
+  },
+  {
+    "City": "Paramaribo, Suriname",
+    "Latitude": 5.75,
+    "Longitude": -55.25,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Paris, France",
+    "Latitude": 48.8,
+    "Longitude": 2.3333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Perth, Australia",
+    "Latitude": -31.95,
+    "Longitude": 115.8667,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Plymouth, England",
+    "Latitude": 50.4167,
+    "Longitude": -4.0833,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Port Moresby, Papua New Guinea",
+    "Latitude": -9.4167,
+    "Longitude": 147.1333,
+    "Time": "3:00 a.m."
+  },
+  {
+    "City": "Prague, Czech Republic",
+    "Latitude": 50.0833,
+    "Longitude": 14.4333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Rangoon, Myanmar",
+    "Latitude": 16.8333,
+    "Longitude": 96.0,
+    "Time": "11:30 p.m."
+  },
+  {
+    "City": "Reykjavík, Iceland",
+    "Latitude": 64.0667,
+    "Longitude": -21.9667,
+    "Time": "5:00 p.m."
+  },
+  {
+    "City": "Rio de Janeiro, Brazil",
+    "Latitude": -22.95,
+    "Longitude": -43.2,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Rome, Italy",
+    "Latitude": 41.9,
+    "Longitude": 12.45,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Salvador, Brazil",
+    "Latitude": -12.9333,
+    "Longitude": -38.45,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Santiago, Chile",
+    "Latitude": -33.4667,
+    "Longitude": -70.75,
+    "Time": "1:00 p.m."
+  },
+  {
+    "City": "St. Petersburg, Russia",
+    "Latitude": 59.9333,
+    "Longitude": 30.3,
+    "Time": "8:00 p.m."
+  },
+  {
+    "City": "São Paulo, Brazil",
+    "Latitude": -23.5167,
+    "Longitude": -46.5167,
+    "Time": "2:00 p.m."
+  },
+  {
+    "City": "Shanghai, China",
+    "Latitude": 31.1667,
+    "Longitude": 121.4667,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Singapore, Singapore",
+    "Latitude": 1.2333,
+    "Longitude": 103.9167,
+    "Time": "1:00 a.m."
+  },
+  {
+    "City": "Sofia, Bulgaria",
+    "Latitude": 42.6667,
+    "Longitude": 23.3333,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Stockholm, Sweden",
+    "Latitude": 59.2833,
+    "Longitude": 18.05,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Sydney, Australia",
+    "Latitude": -34.0,
+    "Longitude": 151.0,
+    "Time": "3:00 a.m."
+  },
+  {
+    "City": "Tananarive, Madagascar",
+    "Latitude": -18.8333,
+    "Longitude": 47.55,
+    "Time": "8:00 p.m."
+  },
+  {
+    "City": "Teheran, Iran",
+    "Latitude": 35.75,
+    "Longitude": 51.75,
+    "Time": "8:30 p.m."
+  },
+  {
+    "City": "Tokyo, Japan",
+    "Latitude": 35.6667,
+    "Longitude": 139.75,
+    "Time": "2:00 a.m."
+  },
+  {
+    "City": "Tripoli, Libya",
+    "Latitude": 32.95,
+    "Longitude": 13.2,
+    "Time": "7:00 p.m."
+  },
+  {
+    "City": "Venice, Italy",
+    "Latitude": 45.4333,
+    "Longitude": 12.3333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Veracruz, Mexico",
+    "Latitude": 19.1667,
+    "Longitude": -96.1667,
+    "Time": "11:00 a.m."
+  },
+  {
+    "City": "Vienna, Austria",
+    "Latitude": 48.2333,
+    "Longitude": 16.3333,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Vladivostok, Russia",
+    "Latitude": 43.1667,
+    "Longitude": 132.0,
+    "Time": "3:00 a.m."
+  },
+  {
+    "City": "Warsaw, Poland",
+    "Latitude": 52.2333,
+    "Longitude": 21.0,
+    "Time": "6:00 p.m."
+  },
+  {
+    "City": "Wellington, New Zealand",
+    "Latitude": -41.2833,
+    "Longitude": 174.7833,
+    "Time": "5:00 a.m."
+  },
+  {
+    "City": "Zürich, Switzerland",
+    "Latitude": 47.35,
+    "Longitude": 8.5167,
+    "Time": "6:00 p.m."
+  }
+]

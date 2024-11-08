@@ -1,0 +1,426 @@
+[
+    {
+        "Doomsday Device Kit": [
+            "Fusion-Powered Core",
+            "Annihilation Sequence Controller",
+            "Intercontinental Activation Remote",
+            "Self-Destruct Protocol Override"
+        ]
+    },
+    {
+        "Fusion-Powered Core": [
+            "Plasma Containment Field",
+            "Energy Condensation Lens",
+            "Thermal Stabilization Rings"
+        ]
+    },
+    {
+        "Intercontinental Activation Remote": [
+            "Encrypted Signal Transmitter",
+            "Multi-Region Access Codes",
+            "Stealth Frequency Modulator"
+        ]
+    },
+    {
+        "Mind Control Serum": [
+            "Neurochemical Distillation Unit",
+            "Rapid Absorption Formula"
+        ]
+    },
+    {
+        "Rapid Absorption Formula": [
+            "Bioactive Enhancer",
+            "Nervous System Binding Agent"
+        ]
+    },
+    {
+        "Reality Distortion Field Generator": [
+            "Quantum Flux Manipulator",
+            "Perception Warping Lens",
+            "Psychic Disruption Transmitter"
+        ]
+    },
+    {
+        "Perception Warping Lens": [
+            "Hyper-Spectral Filters",
+            "Light Refraction Adjuster",
+            "Subconscious Influencer Grid"
+        ]
+    },
+    {
+        "Dark Matter Containment Chamber": [
+            "Hyper-Gravity Compression Plate",
+            "Energy Dissipation Lattice",
+            "Dark Energy Shielding Array"
+        ]
+    },
+    {
+        "Hyper-Gravity Compression Plate": [
+            "Gravity Control Circuits",
+            "Dark Matter Density Adjuster"
+        ]
+    },
+    {
+        "Dark Energy Shielding Array": [
+            "Radiation Absorption Coils",
+            "Containment Field Reinforcer"
+        ]
+    },
+    {
+        "Bio-Plague Engineering Kit": [
+            "Genomic Reprogramming Vial",
+            "Pathogen Amplification Chamber",
+            "Host Adaptation Injector"
+        ]
+    },
+    {
+        "Host Adaptation Injector": [
+            "Adaptive Gene Splicer",
+            "Immunity Bypass Enzyme"
+        ]
+    },
+    {
+        "Hivemind Control Helmet": [
+            "Neuro-Psychic Conduit",
+            "Synchronization Module"
+        ]
+    },
+    {
+        "Synchronization Module": [
+            "Signal Harmonization Chip",
+            "Frequency Modulation Control"
+        ]
+    },
+    {
+        "Nano-Assimilation Swarm": [
+            "Self-Replicating Nanobots",
+            "Target Identification Algorithm",
+            "Assimilation Control Node"
+        ]
+    },
+    {
+        "Self-Replicating Nanobots": [
+            "Nanobot Power Core",
+            "Replicative Processor",
+            "Material Assimilation Chip"
+        ]
+    },
+    {
+        "Temporal Rift Generator": [
+            "Chrono-Stabilizer Core",
+            "Dimensional Anchor Array",
+            "Time Loop Calibrator"
+        ]
+    },
+    {
+        "Chrono-Stabilizer Core": [
+            "Time Flux Regulator",
+            "Quantum State Lock"
+        ]
+    },
+    {
+        "Time Loop Calibrator": [
+            "Chrono-Loop Regulator",
+            "Temporal Reversal Switch"
+        ]
+    },
+    {
+        "Planetary Control Satellite Network": [
+            "Global Surveillance Unit",
+            "Orbital Laser Array",
+            "Remote Hacking Interface"
+        ]
+    },
+    {
+        "Orbital Laser Array": [
+            "Laser Focus Lens",
+            "Atmospheric Correction Software",
+            "Power Amplification Core"
+        ]
+    },
+    {
+        "Remote Hacking Interface": [
+            "Encryption Bypass Module",
+            "Satellite Signal Override",
+            "Global Relay Booster"
+        ]
+    },
+    {
+        "Mind Erasure Gas": [
+            "Neurotoxic Mist Disperser",
+            "Memory Suppression Compound"
+        ]
+    },
+    {
+        "Neurotoxic Mist Disperser": [
+            "Fine Particle Nebulizer",
+            "Gas Release Timer"
+        ]
+    },
+    {
+        "Megaquake Inducer": [
+            "Seismic Resonance Amplifier",
+            "Plate Tectonic Stimulator",
+            "Shockwave Generator Core"
+        ]
+    },
+    {
+        "Seismic Resonance Amplifier": [
+            "Frequency Tuner",
+            "Resonance Magnifier"
+        ]
+    },
+    {
+        "Invisibility Cloak": [
+            "Light-Bending Fibers",
+            "Thermal Disguise Layer",
+            "Adaptive Camouflage Control"
+        ]
+    },
+    {
+        "Thermal Disguise Layer": [
+            "Heat Dissipation Fabric",
+            "Infrared Absorption Coating"
+        ]
+    },
+    {
+        "Mind Meld Synchronization Hub": [
+            "Collective Consciousness Enhancer",
+            "Thought Sync Protocol Interface",
+            "Psycho-Magnetic Relay Node"
+        ]
+    },
+    {
+        "Thought Sync Protocol Interface": [
+            "Brainwave Synchronization Coil",
+            "Emotional Resonance Transmitter"
+        ]
+    },
+    {
+        "Global Thought Control Network": [
+            "Signal Amplification Tower",
+            "Neuro-Persuasion Wave Emission",
+            "Population Synchronization Protocol"
+        ]
+    },
+    {
+        "Neuro-Persuasion Wave Emission": [
+            "Subliminal Influence Modulator",
+            "Cognitive Suggestion Transmitter"
+        ]
+    },
+    {
+        "Subconscious Implant Device": [
+            "Dream Inception Module",
+            "Memory Imprint Circuit",
+            "Cognitive Influence Processor"
+        ]
+    },
+    {
+        "Memory Imprint Circuit": [
+            "Neuro-Electromagnetic Interface",
+            "Memory Lock Encoder"
+        ]
+    },
+    {
+        "Neural Override Chip": [
+            "Brainwave Hijacking Interface",
+            "Subconscious Control Processor",
+            "Emotion Nullification Module"
+        ]
+    },
+    {
+        "Emotion Nullification Module": [
+            "Serotonin Inhibitor",
+            "Empathy Suppression Matrix"
+        ]
+    },
+    {
+        "Cybernetic Implant Control Panel": [
+            "Neural Interface Socket",
+            "Cybernetic Command Chipset",
+            "Function Override Firmware"
+        ]
+    },
+    {
+        "Function Override Firmware": [
+            "Signal Scrambler",
+            "Autonomous Control Code"
+        ]
+    },
+    {
+        "Atmospheric Control Station": [
+            "Air Composition Alteration Unit",
+            "Climate Stabilization Override",
+            "Weather Dominance Module"
+        ]
+    },
+    {
+        "Weather Dominance Module": [
+            "Precipitation Control Unit",
+            "Temperature Modification Field"
+        ]
+    },
+    {
+        "Antimatter Bomb": [
+            "Containment Field Generator",
+            "Critical Mass Initiator",
+            "Detonation Sequence Control"
+        ]
+    },
+    {
+        "Containment Field Generator": [
+            "Anti-Matter Containment Shell",
+            "Energy Dissipation Buffer"
+        ]
+    },
+    {
+        "Planetary Freeze Ray": [
+            "Cryo Beam Emitter",
+            "Atmospheric Freezing Generator",
+            "Thermal Energy Absorption Grid"
+        ]
+    },
+    {
+        "Cryo Beam Emitter": [
+            "Supercooled Particle Injector",
+            "Precision Focusing Lens"
+        ]
+    },
+    {
+        "Submarine Warfare Control Console": [
+            "Sonar Manipulation Software",
+            "Missile Override Panel",
+            "Stealth Mode Activation System"
+        ]
+    },
+    {
+        "Sonar Manipulation Software": [
+            "Frequency Distortion Algorithm",
+            "Underwater Object Recognition AI"
+        ]
+    },
+    {
+        "Telepathic Amplification Helmet": [
+            "Thought Receiver Array",
+            "Mental Broadcast Enhancer",
+            "Psycho-Resonance Core"
+        ]
+    },
+    {
+        "Mental Broadcast Enhancer": [
+            "Thought Frequency Amplifier",
+            "Brainwave Transmitter Module"
+        ]
+    },
+    {
+        "Molecular Disintegration Ray": [
+            "Atom Separator Coil",
+            "Energy Field Emitter",
+            "Matter Dissolution Core"
+        ]
+    },
+    {
+        "Matter Dissolution Core": [
+            "Particle Breakdown Unit",
+            "Energy Discharge Stabilizer"
+        ]
+    },
+    {
+        "Automated Minion Fabricator": [
+            "Synthetic Flesh Layer",
+            "AI-Driven Brain Module",
+            "Robot Skeleton Chassis"
+        ]
+    },
+    {
+        "AI-Driven Brain Module": [
+            "Behavioral Coding Processor",
+            "Emotion Simulation Software"
+        ]
+    },
+    {
+        "Mega-Scale EMP Blaster": [
+            "Electromagnetic Pulse Generator",
+            "Wide-Area Field Expander",
+            "Burst Discharge Core"
+        ]
+    },
+    {
+        "Wide-Area Field Expander": [
+            "Radius Amplification Node",
+            "Magnetic Pulse Booster"
+        ]
+    },
+    {
+        "Cognitive Reprogramming Device": [
+            "Subconscious Rewiring Chip",
+            "Memory Rewrite Panel",
+            "Personality Override Firmware"
+        ]
+    },
+    {
+        "Personality Override Firmware": [
+            "Behavioral Algorithm Array",
+            "Consciousness Override Circuit"
+        ]
+    },
+    {
+        "High-Speed Escape Pod": [
+            "Emergency Launch Thrusters",
+            "Self-Sustaining Oxygen Unit",
+            "Anti-Radar Cloaking System"
+        ]
+    },
+    {
+        "Anti-Radar Cloaking System": [
+            "Electromagnetic Disruptor",
+            "Reflective Coating Layer"
+        ]
+    },
+    {
+        "Mind-Controlled Robot Army": [
+            "Neural Command Link",
+            "AI Obedience Protocol",
+            "Robotic Exoskeleton Frame"
+        ]
+    },
+    {
+        "Robotic Exoskeleton Frame": [
+            "Titanium Alloy Bones",
+            "Muscle Simulation Servo Motors"
+        ]
+    },
+    {
+        "Omni-Hypnosis Device": [
+            "Sleep Induction Wave Generator",
+            "Post-Hypnotic Suggestion Module",
+            "Lucid Dream State Activator"
+        ]
+    },
+    {
+        "Post-Hypnotic Suggestion Module": [
+            "Memory Implant Unit",
+            "Cognitive Influence Circuit"
+        ]
+    },
+    {
+        "High-Tech Brain Scanner": [
+            "Neuroelectric Sensor Array",
+            "Real-Time Thought Display",
+            "Emotion Recognition Filter"
+        ]
+    },
+    {
+        "Emotion Recognition Filter": [
+            "Facial Expression Scanner",
+            "Pulse Monitor Unit"
+        ]
+    },
+    {
+        "EDJI Drone w/Water Cannon": [
+            "DJI Drone",
+            "Water Cannon"
+        ]
+    }
+]

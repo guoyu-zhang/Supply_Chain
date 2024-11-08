@@ -1,0 +1,11 @@
+{
+    "formatter": {
+        "indentStyle": "space",
+        "indentWidth": 4
+    },
+    "javascript": {
+        "formatter": {
+            "jsxQuoteStyle": "double"
+        }
+    }
+}
